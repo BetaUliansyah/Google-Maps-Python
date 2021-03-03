@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "indah 1, Jl. Cemp. No.133 rt 04/04, Pd. Pucung, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15229, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.291956,
+               "lng" : 106.7088852
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.290637520107278,
+                  "lng" : 106.7102378298927
+               },
+               "southwest" : {
+                  "lat" : -6.293337179892722,
+                  "lng" : 106.7075381701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Perumahan pondok pucung indah 1",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117451109916539708398\"\u003eDenny Azhari\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI3PmXSDBy-Nfg0mnBWH_Ud4mqs_nxkPyia2etvyzJK9eCDvagOiq2VpQ0gHLp1gxQzYQ8pKB8nlqrZJEuTe5TaOfn-bW9MJBVKgMkLW644il0KVLMdzCNYOxS5C6EpSDlspODMYW6CzgQWzN8JEpQ0xBpnqiY-ne_olug1ZJYDxoHW",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ_eKjd7r6aS4RZGU63ZSPtT0",
+         "plus_code" : {
+            "compound_code" : "PP55+6H Pondok Pucung, South Tangerang City, Banten",
+            "global_code" : "6P58PP55+6H"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ_eKjd7r6aS4RZGU63ZSPtT0",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 165
+      }
+   ],
+   "status" : "OK"
+}

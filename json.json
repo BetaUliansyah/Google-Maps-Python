@@ -1,0 +1,848 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwKCCcefaUEnOriNWfhiKGrrt8M-SSN5MlZ4n3hcqCCTHguRgjv-iatODBBtuk6j3UOTM0e0Vvq07PIxvMTid2j3mR3IWU-R8MANCaK3J80busACnghD9Nnd-3vuWQXubx5JBvJIHtTL-IzbR8fXu532iVBdAvsewf5Za7GrZu7yj5KK-JTe29oHEeCZKDepFtjRYh7APexs9YjrXECMryyZpT2LCFTxVvAS4KTgnK6Ytxuot9dGv1GAZG_DxVUh9DxzUn2TBfcnmaEkDrm52HY2feOJXv9m3nl7-grF1WaEYfo6ggCl61Gblq1YsXOFDDPXXrAHCGAdPTwDpavubxfZhrXWOqj__hLxNevKLJNmzzzc8Lbmy0bjNKFsXIYwCbGc1wRrZiUi-J-ajmrfPZ2Rr0wSZ5jQ9l_Saz0",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nglinggo, Nglinggo Barat, Pagerharjo, Samigaluh, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55673, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.6539622,
+               "lng" : 110.1409322
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.652603220107277,
+                  "lng" : 110.1422508798927
+               },
+               "southwest" : {
+                  "lat" : -7.655302879892721,
+                  "lng" : 110.1395512201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Rimbono Home Stay",
+         "photos" : [
+            {
+               "height" : 597,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113247328586472359628\"\u003erimbono homestay\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwII4Kow2VQ9c0acgo-jZS15Of6mJlTig4a0t5qHPMyOt3VF3ZQPZw5S66u6a1K99k7UJ3CJMqQcReFDVLm5_VqiFzBPOJY0dUGWVbPYjrnTZeKbtqtjG5RH1_Q7hOkmLoN6gf_1n-j7Vm7FdgAAsTIFNJXMDzUWnQhhtFsd5h78fInb",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ68YQ9O_yei4RkRRorn3r1MQ",
+         "plus_code" : {
+            "compound_code" : "84WR+C9 Pagerharjo, Kulon Progo Regency, Special Region of Yogyakarta",
+            "global_code" : "6P4G84WR+C9"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ68YQ9O_yei4RkRRorn3r1MQ",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 449
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jalan Abdul Jalil RT/RW 01/03, Rw. II, Tambakrejo, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54118, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.714664699999999,
+               "lng" : 110.02904
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.713288770107277,
+                  "lng" : 110.0302452798927
+               },
+               "southwest" : {
+                  "lat" : -7.715988429892721,
+                  "lng" : 110.0275456201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Dedalem Tambakrejo Private Residence",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103986146034293318205\"\u003etrimujoko bayuaji\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI3D3mXL93inWfojsIABi2sZhKAMHaPGdhS9jETEfhZC5_FEoHe8vCJNzDA0mWc-0d1tCOugQrEs7g3c9hAojVNNpTgl88-KMFnSZ8DAUVNyV7e9Bz_HRNmtlqSMfqbm8S0dRUVlA1_lsKrZMEML3hieRlUnZBdrncbK8b_bRoLJNo",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJPSJBjlLrei4RBGiLpgdu5N0",
+         "plus_code" : {
+            "compound_code" : "72PH+4J Tambakrejo, Purworejo Regency, Central Java",
+            "global_code" : "6P4G72PH+4J"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJPSJBjlLrei4RBGiLpgdu5N0",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jl. Tentara Pelajar, Rw. III, Doplang, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54114, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.721318,
+               "lng" : 109.9922666
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.720089870107278,
+                  "lng" : 109.9937720798927
+               },
+               "southwest" : {
+                  "lat" : -7.722789529892721,
+                  "lng" : 109.9910724201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Plaza",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113213868761396810188\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLb0G-Ztah02lIVc1RB6sOxtyUNm85LcV08i68XyKX5gs1DyTYE1lpb5IfQt2V3-5BtFYr77fSB4o6yNGGPVbqznn7CcHjFZG87mAO5fY3QNjZfvTzzp037G1blyuC0V2Y96c2BhEJ79hGyQDAskLRSJEzXnq20yHYN1TZzNLX788GT",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJnTDIDS7qei4Roi4Y7RQK3Kc",
+         "plus_code" : {
+            "compound_code" : "7XHR+FW Doplang, Purworejo Regency, Central Java",
+            "global_code" : "6P4F7XHR+FW"
+         },
+         "rating" : 4,
+         "reference" : "ChIJnTDIDS7qei4Roi4Y7RQK3Kc",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 922
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jl. Pangeran Diponegoro No.105, Serdo Timur, Kutoarjo, Kec. Kutoarjo, Kabupaten Purworejo, Jawa Tengah 54251, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7219473,
+               "lng" : 109.9126135
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.720404670107277,
+                  "lng" : 109.9139003298927
+               },
+               "southwest" : {
+                  "lat" : -7.723104329892721,
+                  "lng" : 109.9112006701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Sawunggalih Kutoarjo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102302228299570743024\"\u003eSawunggalih Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKXvqpFh1c86Vcrpc4bOyJSpodRd13MvLz6gPueTmVBZ_zL0N9trlbQwdFghc4vFLv0Mv75E5JAY-sTq7UWgdnSprVFoFUTy6j4TNVOv3Kb75Tb0_Vovv6Nwys2P9zoJN6UKzIdAiog6udBGgAhLHcBMAWj8KhziA_E2mehzjUG1w6t",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJ_XFBGprBei4R43pSNbvgQoc",
+         "plus_code" : {
+            "compound_code" : "7WH7+62 Kutoarjo, Purworejo Regency, Central Java",
+            "global_code" : "6P4F7WH7+62"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ_XFBGprBei4R43pSNbvgQoc",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 701
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jalan Raya Kutoarjo - Purworejo Km. 2, Bandungrejo, Bayan, Bandungrejo, Bayan, Dusun Empat, Bandungrejo, Kec. Bayan, Kabupaten Purworejo, Jawa Tengah 54222, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.719510700000001,
+               "lng" : 109.9275462
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.718294070107277,
+                  "lng" : 109.9288818798927
+               },
+               "southwest" : {
+                  "lat" : -7.72099372989272,
+                  "lng" : 109.9261822201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Massagus Hotel",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117085337908837806655\"\u003etommy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJu37JkbwyLvSXV36a-dLN6I3U9Fb7pvgvhV-hSr66QTs68yY_Ka-Bss9whZnKiVIQeZGiwQs9A05VcqHmcjwsThRjMPxePgqSpPpgRBJNfTqfN2-mNYZE1Q2qAH41sq7uc9Ra9iN6HqsbmdKiTV7jWnGYnKff6VYn-4FUXM8XlTJC9",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJpfB4oOzBei4RfFp4qe8VUc8",
+         "plus_code" : {
+            "compound_code" : "7WJH+52 Bandungrejo, Purworejo Regency, Central Java",
+            "global_code" : "6P4F7WJH+52"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJpfB4oOzBei4RfFp4qe8VUc8",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 351
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jl. Tentara Pelajar No.72, RT.1, Daleman, Kledung Karangdalem, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54171, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.725068999999999,
+               "lng" : 109.9879913
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.723819120107278,
+                  "lng" : 109.9894245298927
+               },
+               "southwest" : {
+                  "lat" : -7.726518779892722,
+                  "lng" : 109.9867248701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Sanjaya Inn Hotel",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104920347555805643106\"\u003eSulis Andayaningrum\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLlSMeC2-PbLOZEv1AyGx2f_SjlUc-EKF3pU7LBhOFtuD4uw_mlwsKcSiAiEs9gszgcR__imU5bX_jyGEIXp3oEgHRCt87fNtNrBFSiZ1nhVbCloyPUV2Vslb0_eD2YIM5bPOpLpddbxwus5rjGcR0etdaEVzUyl3Gaa4X6f_nUSch7",
+               "width" : 5333
+            }
+         ],
+         "place_id" : "ChIJSZnPAy_qei4Rry-gzKC0WTQ",
+         "plus_code" : {
+            "compound_code" : "7XFQ+X5 Kledung Karangdalem, Purworejo Regency, Central Java",
+            "global_code" : "6P4F7XFQ+X5"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJSZnPAy_qei4Rry-gzKC0WTQ",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 591
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rw. IV, Boro Kulon, Banyuurip, Purworejo Regency, Central Java 54171, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7417942,
+               "lng" : 109.9984961
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.74039502010728,
+                  "lng" : 109.9998901298927
+               },
+               "southwest" : {
+                  "lat" : -7.743094679892724,
+                  "lng" : 109.9971904701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Giripurwo",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114182305766915740924\"\u003ePraga Adidhatama\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIxbxqdnVxvDOceyWm3WxaKEaMNXba8jmeNHRWUqragCcJJc8c2zg5yyiWkuB0PI921toaqky9OJNW_vdpCrTtMMBiyfjQgdzV_5iJydkphSH3UyhWH7Chg6kB8FzHx92XjPgSkKciVX2pAuLAyrETD8zCxigkMQ742EKefWN97zls6",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJQQVVGXjpei4RDpYEtv8IHSs",
+         "plus_code" : {
+            "compound_code" : "7X5X+79 Boro Kulon, Purworejo Regency, Central Java",
+            "global_code" : "6P4F7X5X+79"
+         },
+         "rating" : 4,
+         "reference" : "ChIJQQVVGXjpei4RDpYEtv8IHSs",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 132
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "jalan yogyakarta No.km.5, Gegunungan, Popongan, Kec. Banyuurip, Kabupaten Purworejo, Jawa Tengah 54171, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.762239900000001,
+               "lng" : 110.0042059
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.76089742010728,
+                  "lng" : 110.0054836798927
+               },
+               "southwest" : {
+                  "lat" : -7.763597079892723,
+                  "lng" : 110.0027840201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "HOTEL SANJAYA",
+         "photos" : [
+            {
+               "height" : 1844,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102222949385803135510\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIomDMBMXEQv_0p3rmEWKk2eliS-_lMcYrom8NnuIryxD7xT30_QZBJiXs5iWMQi90aLDkcfp8KOgp1lxUVZE2HsfWgias9Hnkq_RpBWxawjUkZ_SdHeew4EWbGrwoZfH3lfWvV4bvzPL1XFwRQofW76u8ehIz9lKYE1Iodzywi5kmd",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJh22G4Qzpei4R1s1PS2EwJX4",
+         "plus_code" : {
+            "compound_code" : "62Q3+4M Popongan, Purworejo Regency, Central Java",
+            "global_code" : "6P4G62Q3+4M"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJh22G4Qzpei4R1s1PS2EwJX4",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 31
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jl. Kolonel Sugiono No.62, Kepatihan, Purworejo, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54151, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7087732,
+               "lng" : 110.0144486
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.70748027010728,
+                  "lng" : 110.0159148798927
+               },
+               "southwest" : {
+                  "lat" : -7.710179929892724,
+                  "lng" : 110.0132152201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Ganesha",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114494281498087537433\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI8Qom0TK0hC8XWP-lLYpF7Sy58irGNcSue7u0XSU79dfAUIi8seo6S4k_1mQjlmpeMLNW4A-t_aTDmrtNhH8b2qZc2qonY4KoVDstGAkzzNqxH1I8PYutt8dP09zvEMefxp1Oz31GwZ2cWy_b8WJw6qD5NOAKgZwdQChvFLUmL9pHe",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJhYth6bfrei4R8bgKP0WMNMs",
+         "plus_code" : {
+            "compound_code" : "72R7+FQ Purworejo, Purworejo Regency, Central Java",
+            "global_code" : "6P4G72R7+FQ"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJhYth6bfrei4R8bgKP0WMNMs",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 457
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nglinggo Timur, Pagerharjo, Samigaluh, Kulon Progo Regency, Special Region of Yogyakarta 55673, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.657555500000001,
+               "lng" : 110.1440014
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.656226320107279,
+                  "lng" : 110.1452946298927
+               },
+               "southwest" : {
+                  "lat" : -7.658925979892723,
+                  "lng" : 110.1425949701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "ARJUNA HOMESTAY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116145526382173286214\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIyRKsl47PJsrISzH_MGt5sFUIFl6jv0Q8C8M497VLkfL2V7qG2QHV3m6WfgXQhSJcgErxP4ko4pJRZm6CKoKk8_COcjhWMv8wSPW74C3k5qX9D9HXrFFohsZG8WUZq5f_5Jtom99gQUEBrZkomhiSJyGTaj9p_BKAIB1I4jPXOCS4I",
+               "width" : 780
+            }
+         ],
+         "place_id" : "ChIJ7bwEIgXzei4RIRpbEKOv_EE",
+         "plus_code" : {
+            "compound_code" : "84RV+XJ Pagerharjo, Kulon Progo Regency, Special Region of Yogyakarta",
+            "global_code" : "6P4G84RV+XJ"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ7bwEIgXzei4RIRpbEKOv_EE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "No. 22 Jalan Raya Kutoarjo, Jl. Ketawang No.Km7, Babrik, Dukuhdungus, Grabag, Purworejo Regency, Central Java 54265, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.777684499999999,
+               "lng" : 109.9102964
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.776339370107278,
+                  "lng" : 109.9116729298927
+               },
+               "southwest" : {
+                  "lat" : -7.779039029892722,
+                  "lng" : 109.9089732701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "WALASA HOME STAY 1 (AYU)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100097823898309787856\"\u003eDimas Kamali\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL4OuEOwDpZhyxyTxEbfIc5n1EJ03RFzpOfjs4TLPnUnkG-6qgpI1Fg5pWiqDSFLBVKh_4PJyEUeeoesJs501ZNGRVlUI15cbAkKlJuiOTSlhfl-7W-bL3k7z21fDe-eGvXbs1pgU_9UlU5-rpvgP5yZsgis2De9VJvCzsJpBV0C9Xj",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJV9U0NtTDei4RdIWXrvdxyVs",
+         "plus_code" : {
+            "compound_code" : "6WC6+W4 Dukuhdungus, Purworejo Regency, Central Java",
+            "global_code" : "6P4F6WC6+W4"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJV9U0NtTDei4RdIWXrvdxyVs",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jl. Urip Sumoharjo No.47, Purworejo, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54151, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.710277800000001,
+               "lng" : 110.0122222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.709024220107279,
+                  "lng" : 110.0137073798927
+               },
+               "southwest" : {
+                  "lat" : -7.711723879892723,
+                  "lng" : 110.0110077201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Suronegaran",
+         "photos" : [
+            {
+               "height" : 1232,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104041934545009972420\"\u003eGunawan Utama\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKQbigJTOsKaRc-un_QQvmjzfrPJ9biMGH4Dlh3G1nF7xoSOSb6pNt_zBlLsk8qS0PAWQV6wANlx9gCzzmuhFBq4xtwrjBrCI4zOVuXJWxtQsCS6DDOgLUZf-1pBbbDGnWEs6vJcYA7uEOWxyUhYkY9HhnFuwJo29NnAM4SVpiFHwmY",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ66JKdLjrei4RUaqANdpcQX0",
+         "plus_code" : {
+            "compound_code" : "72Q6+VV Purworejo, Purworejo Regency, Central Java",
+            "global_code" : "6P4G72Q6+VV"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ66JKdLjrei4RUaqANdpcQX0",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 384
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bulusari, Sarigono, Pagerharjo, Samigaluh, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55673, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.668244,
+               "lng" : 110.132187
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.666952420107278,
+                  "lng" : 110.1334395798927
+               },
+               "southwest" : {
+                  "lat" : -7.669652079892722,
+                  "lng" : 110.1307399201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Nabhan Homestay",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116639964282462732266\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKbz2bH_afqlNhm4cSw67tQj2Gek1U22rY3OsIdzGxwbWikjS4-caBtg9VbM6Dc3TBovsdG4vSZW1e2x65j3uBFikupz-ReKY0oRLce4PZJk4jNO0QFH72eB2oif9l88hHpqpeykzd3vCM5mPtKqqwd7Lc2zTGrTo-M6U8CVp2o3-g3",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ3xsWOATtei4RsCghOXkCVnI",
+         "plus_code" : {
+            "compound_code" : "84JJ+PV Pagerharjo, Kulon Progo Regency, Special Region of Yogyakarta",
+            "global_code" : "6P4G84JJ+PV"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ3xsWOATtei4RsCghOXkCVnI",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ngadiboyo, Ngadirejo, Kaligesing, Purworejo Regency, Central Java 54175, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.677027599999999,
+               "lng" : 110.1203297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.675685620107275,
+                  "lng" : 110.1216136298927
+               },
+               "southwest" : {
+                  "lat" : -7.678385279892719,
+                  "lng" : 110.1189139701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Dewi sri homestay",
+         "photos" : [
+            {
+               "height" : 3322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100045112233679799648\"\u003esri hardhany\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKff6tANgVjjWMeBKGUFOTGcw-NnMobgxI-EnbWbzWbgCZ9yiAVfJZdHOEKtG8ynzrglymmPteeglVoPhfNCBFrWVwGYbeKh7vRnjSyh5tQdBPunFq2gWaiJ9uLXWXGRyfwukHfaKnU8YFoPmNL1ZtGxp4MvQaIgbJMIiXhbXasqwYg",
+               "width" : 1578
+            }
+         ],
+         "place_id" : "ChIJO2vQEsztei4Rey6qrY5qWqU",
+         "plus_code" : {
+            "compound_code" : "84FC+54 Ngadirejo, Purworejo Regency, Central Java",
+            "global_code" : "6P4G84FC+54"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJO2vQEsztei4Rey6qrY5qWqU",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jl. Pangeran Diponegoro No.139, Serdo Barat, Kutoarjo, Kec. Kutoarjo, Kabupaten Purworejo, Jawa Tengah 54212, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7224469,
+               "lng" : 109.910325
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.721015920107277,
+                  "lng" : 109.9116466298927
+               },
+               "southwest" : {
+                  "lat" : -7.723715579892721,
+                  "lng" : 109.9089469701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Kencana Kutoarjo",
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108689699470324140821\"\u003eBambang Priyo Cahyono\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKpMw9IEOPl0CZc5OZa5qIqCMfDp2wfyqKWpZsuM6iqDUIvZi57UbLFC8py28TPdtfusCs68vCkBKs5K06I6rPuhoFCWX_I_Iji3af3Fc35sX-b-7Tn97JuPkdCUzRFd84ZlurFv3hgmU80403wUIp1E3IiEzoLVu1YsdXKJpxyvC76",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJJzvQN5rBei4RoVSw-1holGg",
+         "plus_code" : {
+            "compound_code" : "7WH6+24 Kutoarjo, Purworejo Regency, Central Java",
+            "global_code" : "6P4F7WH6+24"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJJzvQN5rBei4RoVSw-1holGg",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 197
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sokomoyo, Jatimulyo, Girimulyo, Kulon Progo Regency, Special Region of Yogyakarta 55674, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.751597899999999,
+               "lng" : 110.1296447
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.749860420107276,
+                  "lng" : 110.1311409298927
+               },
+               "southwest" : {
+                  "lat" : -7.75256007989272,
+                  "lng" : 110.1284412701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Kampung Watu Blencong",
+         "photos" : [
+            {
+               "height" : 3472,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116791587594511744270\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLYuHjC9KUrSQQXmCvwcTpwRQKuqb_2_p9kWbg7L9aOVV9NPdkXmS6m3KSHzjHMiOv38Wx27Id8BY0C2Dud-t3wHlWSfeKjUfmxey3xOAyh9CbgJmneMB65J-NtFPBf26fZViYt638ZfIguTq4vGCYcEgyu8_kQt2e_qnMu8mrA1aAq",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJJbUcpCTuei4RDu_3E6rfIfw",
+         "plus_code" : {
+            "compound_code" : "64XH+9V Jatimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
+            "global_code" : "6P4G64XH+9V"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJJbUcpCTuei4RDu_3E6rfIfw",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 97
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nglinggo Barat, Pagerharjo, Samigaluh, Kulon Progo Regency, Special Region of Yogyakarta 55673, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.6543851,
+               "lng" : 110.1407454
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.652875220107278,
+                  "lng" : 110.1421698298927
+               },
+               "southwest" : {
+                  "lat" : -7.655574879892722,
+                  "lng" : 110.1394701701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Kumoro's House",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115842278252619040414\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKkF98WwrDZeGJrVxbzQn5suF2YpB10d1W76rGXEKbF62rDC7zPcAn_Vss8kGaj23trpp-0VMV3aexOgbK4cV4eRJi9yqydhKWu1-f42OWSuctPzCrcpxnQeQIBIjMhS-xZfWUwFPmtrF625wP3fNSnxzWPLrtdOOZFspNS4hJA5SoB",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJixiGccPzei4RdZqdSov_cfA",
+         "plus_code" : {
+            "compound_code" : "84WR+67 Pagerharjo, Kulon Progo Regency, Special Region of Yogyakarta",
+            "global_code" : "6P4G84WR+67"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJixiGccPzei4RdZqdSov_cfA",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jl. Tanjung Anom No.7, Kembang Arum, Kutoarjo, Purworejo, Kabupaten Purworejo, Jawa Tengah 54251, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.720815300000001,
+               "lng" : 109.9114842
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.719436020107277,
+                  "lng" : 109.9128925298927
+               },
+               "southwest" : {
+                  "lat" : -7.722135679892721,
+                  "lng" : 109.9101928701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Puri Mandiri Hotel",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109891405602418576015\"\u003eWayanroy Duasatudua\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLOB5TsadCb6Y9IUV6p9EJ3Y4Yx5haXUgd9YXRMi2zNLyMndJbAgAYHl8YDmJ44SkACyKJrEAh6A5nGe5MY6jM67xxmWcccrJD-DJuqqzgLPI5cjCOtB0gpU5pSCbydlebbiGL4zyQkAd-bCIp69OR31UhQeKamMf7HZbYx2L_kkjkw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJO1kfd5zBei4ReT-7WV9xaSU",
+         "plus_code" : {
+            "compound_code" : "7WH6+MH Kutoarjo, Purworejo Regency, Central Java",
+            "global_code" : "6P4F7WH6+MH"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJO1kfd5zBei4ReT-7WV9xaSU",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 153
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jl. Cemp. No.6, Serdo Barat, Kutoarjo, Kec. Kutoarjo, Kabupaten Purworejo, Jawa Tengah 54212, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7236287,
+               "lng" : 109.9111553
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.722179270107278,
+                  "lng" : 109.9125189798927
+               },
+               "southwest" : {
+                  "lat" : -7.724878929892722,
+                  "lng" : 109.9098193201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Garuda Setia",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108953175566638266917\"\u003eMuhamad Sidhiq\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKLe-k4XdIIiAfJwRK0lA8wynX7IES3y9OGcm9ceE7KKbF-69d4jjeJX-y7NMGvtAgu2yHGBMDZN3GdUXmH60Jg-tmweol_ggk7A2JzJAskGbQPPHrNPGME--ari1WXzPozp1qx8A0HcGVhVuvlR8Cy8TnFFfrrtjTBR59waiVFzSNj",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJUeoo6rfrei4RjExpR3nvKJ0",
+         "plus_code" : {
+            "compound_code" : "7WG6+GF Kutoarjo, Purworejo Regency, Central Java",
+            "global_code" : "6P4F7WG6+GF"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJUeoo6rfrei4RjExpR3nvKJ0",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 264
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Soropati, Hargotirto, Kokap, Kulon Progo Regency, Special Region of Yogyakarta 55653, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7987666,
+               "lng" : 110.1178487
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.796606750000001,
+                  "lng" : 110.1190798798927
+               },
+               "southwest" : {
+                  "lat" : -7.799486550000001,
+                  "lng" : 110.1163802201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Homestay Jemakir",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107437920889772335807\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIEmya_RgEpFj8lFFUoRQlrqGRb2-2AziHqlImg1l9DkbKtIldY2rXGm4V1grsW3JE1QQCZi0mH_RmpvIJCL-DwI2oDcjPZp84uPzssi0V9jTvF82HJfiXA7SN9TQSQRf9PcgLQ7urzqzGCGo9MNn_wa_QggrtS4u2hoYZu-qWRr3Zx",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJw4t54sXvei4RxVob-2GfPhg",
+         "plus_code" : {
+            "compound_code" : "6429+F4 Hargotirto, Kulon Progo Regency, Special Region of Yogyakarta",
+            "global_code" : "6P4G6429+F4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJw4t54sXvei4RxVob-2GfPhg",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      }
+   ],
+   "status" : "OK"
+}
